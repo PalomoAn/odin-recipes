@@ -1,0 +1,52 @@
+.title{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+body{
+    background-image: linear-gradient(180deg,rgb(238, 238, 197),rgb(228, 196, 147));
+
+}
+
+.title .maintitle{
+    text-decoration: overline;
+}
+
+.title .title2{
+    font-size: 50px;
+    text-decoration: underline;
+
+}
+.flavortext{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.flavortext .flavor1{
+    font-size: 20;
+    font-weight: bold;
+}
+
+.recipetitle{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+.recipes{
+    
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
