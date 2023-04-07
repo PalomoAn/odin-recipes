@@ -4,6 +4,9 @@
     font-size: 40px;
     font-weight: bolder;
 }
+.title .undertitle{
+    text-decoration: underline;
+}
 
 body{
     background-image: linear-gradient(180deg,rgb(238, 238, 197),rgb(228, 196, 147));
@@ -14,5 +17,24 @@ h4{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 
+
+}
+
+.intro{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+div{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
 
 }
